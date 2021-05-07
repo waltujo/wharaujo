@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Walter Araujo</h1>
 <p align = "justify">
-Graduating in System Analysis and Development, Sports, Blockchain and Technolgy Lover, eager to learn. I am learning Angular, .NET, MVC, WebApi, Entity Framework Core, SQL Server and Git.</p>
+Graduating in System Analysis and Development, Sports, Blockchain and Technolgy Lover, eager to learn.</p>
 
 I currently work at Tata Consultancy Services, [TCS](https://www.tcs.com)
 
