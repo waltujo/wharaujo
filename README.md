@@ -28,7 +28,7 @@ I currently work at Tata Consultancy Services, [TCS](https://www.tcs.com)
 [![Linkedin Badge](https://img.shields.io/badge/-wharaujo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wharaujo/)](https://www.linkedin.com/in/wharaujo/)
 [![Gmail Badge](https://img.shields.io/badge/-henrialqui@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:henrialqui@gmail.com)](mailto:henrialqui@gmail.com)
 
-## 🚀💻 Technologies & Tools
+## 🚀💻 Technologies & Tools I'm Learning 
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -42,8 +42,6 @@ I currently work at Tata Consultancy Services, [TCS](https://www.tcs.com)
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Sever-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-
-
 
 ## ⚡ GitHub Stats
 
